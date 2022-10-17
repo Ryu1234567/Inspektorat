@@ -1,0 +1,68 @@
+.content1
+{
+    background-color:0;
+    margin-top:99px ;
+    margin-bottom: 50px; 
+    text-align: justify;
+    
+}
+
+.clearfix
+{
+    margin-bottom:10px;
+    padding:4px ;
+}
+
+.border1
+{
+    border: 1px solid black;
+    
+}
+ 
+.position
+{
+    position:relative;
+}
+
+.position1
+{
+    position: absolute;
+}
+
+.container1
+{
+    width: 100%;
+    border: 1px black solid;
+    
+}
+
+.mainbox
+{
+    width: 70%;
+    padding: 10px;
+    background-color:none;
+}
+
+.sidebox
+{
+   width:30%;
+   padding:0 0 10px 10px;
+   background-color: black; 
+}
+
+.struktur
+{
+    width: 1000px;
+}
+
+.text-gambar
+{
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+
+.container1-1
+{
+    padding:20px 0px 0 0 ;
+}
+
